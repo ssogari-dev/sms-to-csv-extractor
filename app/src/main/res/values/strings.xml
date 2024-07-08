@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SMS Extractor</string>
+    <string name="all_dates">ALL</string>
+    <string name="select_start_date">Select Start Date</string>
+    <string name="start_date">Start Date: YYYY-MM-DD</string>
+    <string name="select_end_date">Select End Date</string>
+    <string name="end_date">End Date: YYYY-MM-DD</string>
+    <string name="export_sms">Export SMS</string>
+    <string name="export_mms">Export MMS</string>
+    <string name="incoming">Incoming</string>
+    <string name="outgoing">Outgoing</string>
+    <string name="selected_columns">Selected Columns</string>
+    <string name="available_columns">Available Columns</string>
+    <string name="export_button">Export Messages to CSV</string>
+    <string name="status">Status</string>
+    <string name="attention_message">Attention! RCS messages (chat) are not supported yet, I\'ll work on getting them supported.</string>
+
+    <!-- Credit Info -->
+    <string name="credit">Credit</string>
+    <string name="credit_title">Hello, I\'m SSoGari</string>
+    <string name="credit_message" translatable="false">SSoGari Studio / Hwang Bo Hyeon\n- Develop, Security\n- Twitter @ssogari_dev\n- Email admin@ssogari.dev</string>
+    <string name="credit_twitter">Twitter</string>
+    <string name="credit_github">Github</string>
+    <string name="credit_close">Close</string>
+    <string name="twitter_url">https://twitter.com/ssogari_dev</string>
+    <string name="github_url">https://github.com/ssogari-dev</string>
+
+    <!-- Support -->
+    <string name="support">Support</string>
+    <string name="support_title">Thank you for your Support</string>
+    <string name="support_message">I\'m a newbie developer, still new to app development. Your support will allow me to take a break with an energy drink.</string>
+    <string name="support_paypal">Paypal</string>
+    <string name="support_kakaopay">Kakaopay</string>
+    <string name="support_paypal_url">https://paypal.me/ssogaridev</string>
+    <string name="support_kakaopay_url">https://qr.kakaopay.com/FXHYGocM5</string>
+</resources>
