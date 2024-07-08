@@ -34,7 +34,7 @@ The **SMS to CSV Extractor** is an Android application designed to export SMS an
 - If you find any bugs or have suggestions, please contact us via email(admin at ssogari dot dev) or Twitter @ssogari_dev. Contributions via GitHub are also welcome.
 
 ## Download
-- **APK File**: [app-release.apk](https://blog.kakaocdn.net/dn/tyIWb/btsIsbkjp5N/aFKn7NZ9VhUc8eUTkzNSWk/tfile.apk)
+- **APK File**: [app-release.apk](https://github.com/ssogari-dev/sms-to-csv-extractor/releases/tag/apk-release)
 - **VirusTotal Report**: [VirusTotal Report](https://www.virustotal.com/gui/file/f1765d684ce732dec221897578b72c13e0611ba11cb6e4c05f883a7decfddbeb/detection)
 
 ## Version Information
@@ -79,7 +79,7 @@ The **SMS to CSV Extractor** is an Android application designed to export SMS an
 - 버그를 발견하거나 제안 사항이 있으시면 이메일(admin at ssogari dot dev)이나 트위터(@ssogari_dev)로 연락주시기 바랍니다. GitHub를 통한 기여도 환영합니다.
 
 ## 다운로드
-- **APK 파일**: [app-release.apk](https://blog.kakaocdn.net/dn/tyIWb/btsIsbkjp5N/aFKn7NZ9VhUc8eUTkzNSWk/tfile.apk)
+- **APK 파일**: [app-release.apk](https://github.com/ssogari-dev/sms-to-csv-extractor/releases/tag/apk-release)
 - **VirusTotal 보고서**: [VirusTotal Report](https://www.virustotal.com/gui/file/f1765d684ce732dec221897578b72c13e0611ba11cb6e4c05f883a7decfddbeb/detection)
 
 ## 버전 정보
